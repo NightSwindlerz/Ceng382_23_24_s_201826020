@@ -1,0 +1,13 @@
+tr:hover {
+    background-color: #dddddd;
+}
+
+button[type="loginButton"]:hover {
+    background-color: #45a049;
+    cursor: pointer;
+}
+
+button[type="registerButton"]:hover {
+    background-color: #45a049;
+    cursor: pointer;
+}
