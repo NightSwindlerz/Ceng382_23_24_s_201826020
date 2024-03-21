@@ -2,3 +2,30 @@
 @model MyApp.Namespace.lab5PageModel
 @{
 }
+<html>
+<body>
+    <div id="generalApp">
+        <h1>Addition Form</h1>
+        <h4>382_Lab5</h4>
+        <button id="toggleButton" onclick="toggleFunc()">Toggle Form</button>
+        <hr>
+        <div id="elementsToToggle" style="display: none;">
+            <label for="element1">Enter first number:</label><br>
+            <input id="element1" name="element1" type="number">
+            <br>
+            <br>
+            <label for="element2">Enter second number:</label><br>
+            <input id="element2" name="element2" type="number">
+            <hr>
+            <button id="calculateFormButton"  onclick="calculateFunc()">Calculate Sum</button>
+            <br>
+            <div id="calculateResult" style="display: none;">
+                <br>
+                <textarea id="resultField" rows=4 cols=20 readonly></textarea>
+            </div>
+        </div>
+
+        <script src="~/js/lab5Page.js"></script>
+    </div>
+</body> 
+</html>

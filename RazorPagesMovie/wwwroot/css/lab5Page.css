@@ -1,0 +1,29 @@
+#toggleButton{
+    display: flex;
+    background-color: aliceblue;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+#calculateFormButton{
+    display: flex;
+    background-color: rgb(91, 91, 192);
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+#generalApp{
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#resultField{
+    background-color: rgb(20, 156, 20);
+    display: flex;
+    border-radius: 20px;
+    align-self: center;
+}

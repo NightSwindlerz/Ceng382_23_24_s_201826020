@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\RazorPagesMovie.bundle.scp.css"
     },
     {
+      "Id": "c:\\Users\\omerb\\OneDrive\\Masaüstü\\382\\CENG-382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\wwwroot\\css\\lab5Page.css",
+      "PackagePath": "staticwebassets\\css\\lab5Page.css"
+    },
+    {
       "Id": "c:\\Users\\omerb\\OneDrive\\Masaüstü\\382\\CENG-382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\wwwroot\\css\\sign-in.css",
       "PackagePath": "staticwebassets\\css\\sign-in.css"
     },
@@ -15,6 +19,10 @@
     {
       "Id": "c:\\Users\\omerb\\OneDrive\\Masaüstü\\382\\CENG-382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\omerb\\OneDrive\\Masaüstü\\382\\CENG-382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\wwwroot\\js\\lab5Page.js",
+      "PackagePath": "staticwebassets\\js\\lab5Page.js"
     },
     {
       "Id": "c:\\Users\\omerb\\OneDrive\\Masaüstü\\382\\CENG-382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\wwwroot\\js\\site.js",
