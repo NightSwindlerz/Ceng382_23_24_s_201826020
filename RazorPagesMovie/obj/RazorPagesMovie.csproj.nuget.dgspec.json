@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\omerb\\OneDrive\\Masaüstü\\382\\CENG-382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "c:\\Users\\user\\OneDrive\\Masaüstü\\382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "c:\\Users\\omerb\\OneDrive\\Masaüstü\\382\\CENG-382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "c:\\Users\\user\\OneDrive\\Masaüstü\\382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\omerb\\OneDrive\\Masaüstü\\382\\CENG-382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "c:\\Users\\user\\OneDrive\\Masaüstü\\382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "c:\\Users\\omerb\\OneDrive\\Masaüstü\\382\\CENG-382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\RazorPagesMovie.csproj",
-        "packagesPath": "C:\\Users\\omerb\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\omerb\\OneDrive\\Masaüstü\\382\\CENG-382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\obj\\",
+        "projectPath": "c:\\Users\\user\\OneDrive\\Masaüstü\\382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\user\\OneDrive\\Masaüstü\\382\\Ceng382_23_24_s_201826020\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\omerb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
